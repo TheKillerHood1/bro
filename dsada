@@ -1,3 +1,1 @@
 local owner = getgenv().Settings.Owner
-
-print(owner)
